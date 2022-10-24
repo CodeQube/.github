@@ -3,7 +3,7 @@
 
 Hi! We are  **CodeQube**, a motivated team from **[GET Academy](https://www.getacademy.no/)**. 
 
-CodeQube consists of  **[Marius](https://github.com/aaltofar)** & **[Oscar](https://github.com/xNemix)**, Team 3 Modul 2. We *strive* to deliver great complete applications with the customer in mind, meeting and hopefully even exceeding expectations when it comes to design and usability with our main focus being a modern look with an intuitive user experience.
+CodeQube consists of  **[Marius](https://github.com/aaltofar)** & **[Oscar](https://github.com/xNemix)**, Team 3 Modul 2. We *strive* to deliver great complete applications with the customer in mind. Meeting and hopefully even exceeding expectations when it comes to design and usability, with our main focus being a modern look with an intuitive user experience.
 
 
 # Projects
